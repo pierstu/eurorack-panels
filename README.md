@@ -19,11 +19,12 @@ Fonts :
 #### 041220 (premier commit) : 
 
 - ajout du batch de décembre : 
-  - [mtm simple eq](https://www.musicthing.co.uk/pages/simpleeq.html) | [gh](https://github.com/TomWhitwell/SimpleEQ) | cc-by-sa 4.0
-  - [mtm volts](https://www.musicthing.co.uk/pages/volts.html) | [gh](https://github.com/TomWhitwell/Volts) | cc-by-sa 4.0
-  - [mtm pulses](https://www.musicthing.co.uk/pages/pulses.html) | [gh](https://github.com/TomWhitwell/Turing-Pulse-Expander) | cc-by-sa 4.0
-  - [charon heptaphasis](charon.sk/heptaphasis/) | [gh](https://github.com/charonme/heptaphasis) | kopimi
-  - [hamara labs tam v3](https://www.modulargrid.net/e/other-unknown-hamara-labs-triple-attenuverter-mixer-v2-tam) | [gh](https://github.com/ishkabbible/TAM_V3) | cc-by-sa ?
+  - [mtm - simple eq](https://www.musicthing.co.uk/pages/simpleeq.html) | [gh](https://github.com/TomWhitwell/SimpleEQ) | cc-by-sa 4.0
+  - [mtm - volts](https://www.musicthing.co.uk/pages/volts.html) | [gh](https://github.com/TomWhitwell/Volts) | cc-by-sa 4.0
+  - [mtm - pulses](https://www.musicthing.co.uk/pages/pulses.html) | [gh](https://github.com/TomWhitwell/Turing-Pulse-Expander) | cc-by-sa 4.0
+  - [charon - heptaphasis](charon.sk/heptaphasis/) | [gh](https://github.com/charonme/heptaphasis) | kopimi
+  - [hamara labs - tam v3](https://www.modulargrid.net/e/other-unknown-hamara-labs-triple-attenuverter-mixer-v2-tam) | [gh](https://github.com/ishkabbible/TAM_V3) | cc-by-sa ?
+  - [ben moren - two tone](https://github.com/bmoren/two-tone) | cc-by-sa 4.0
 
 #### todo : 
   - readme
