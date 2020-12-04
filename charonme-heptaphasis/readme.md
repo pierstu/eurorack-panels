@@ -1,0 +1,1 @@
+![front](https://github.com/pierstu/eurorack-panels/blob/master/charonme-heptaphasis/heptaphasis_front.jpg) ![back](https://github.com/pierstu/eurorack-panels/blob/master/charonme-heptaphasis/heptaphasis_back.jpg)
