@@ -1,7 +1,7 @@
 Lamest "design" in the world, just removed the logo
 
 Changes : 
-- brand id
+- removed original brand id
 - pseudo double-sided, depends on you system layout
 
 ![front](https://github.com/pierstu/eurorack-panels/blob/master/hamara-tam-v3/hamara-tam-preview-front.jpg)
