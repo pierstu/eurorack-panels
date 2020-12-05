@@ -17,7 +17,7 @@ Panels for euro modules in eurofack format (3Hu) to be sent to the pcb factory
 
 - ### log
   - 041220 (premier commit) : 
-    - ajout du batch de décembre : 
+    - ajout du batch de décembre, en attente de livraison : 
       - [mtm - simple eq](https://www.musicthing.co.uk/pages/simpleeq.html) | [gh](https://github.com/TomWhitwell/SimpleEQ) | cc-by-sa 4.0
       - [mtm - volts](https://www.musicthing.co.uk/pages/volts.html) | [gh](https://github.com/TomWhitwell/Volts) | cc-by-sa 4.0
       - [mtm - pulses](https://www.musicthing.co.uk/pages/pulses.html) | [gh](https://github.com/TomWhitwell/Turing-Pulse-Expander) | cc-by-sa 4.0
