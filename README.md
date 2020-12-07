@@ -24,6 +24,10 @@ Panels for euro modules in eurofack format (3Hu) to be sent to the pcb factory
       - [charon - heptaphasis](charon.sk/heptaphasis/) | [gh](https://github.com/charonme/heptaphasis) | kopimi | 3hp
       - [hamara labs - tam v3](https://www.modulargrid.net/e/other-unknown-hamara-labs-triple-attenuverter-mixer-v2-tam) | [gh](https://github.com/ishkabbible/TAM_V3) | cc-by-sa ? | 6hp
       - [ben moren - two tone](https://github.com/bmoren/two-tone) | cc-by-sa 4.0 | 3hp
+      
+  - 071220 :
+    - rajout au batch de décembre, en attente de livraison : 
+        - [tomarus - miarph](https://github.com/tomarus/midi2cv) | unknown license | 8hp
 
 - ### [license](https://github.com/pierstu/eurorack-panels/blob/master/license) 
   [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) according to the original works, please feel free to drop me a line or open an issue if you want anything removed
