@@ -1,5 +1,7 @@
 # eurorack-panels
-Panels for euro modules in eurofack format (3Hu) to be sent to the pcb factory 
+Panels for euro modules in eurofack format (3Hu) to be sent to the pcb factory. 
+
+__As for now they are *not* grounded, as i usually dont ground my rails__, so it's open to banana jack sockets by default (you might want to edit the drill diameters). If you need to, edit the rail holes to "through-hole pad" and draw tracks on a copper zone to one or all of these.  
 
 - ### Current guidelines: 
     - stay cheap (no to very few exposed copper atm, ie Two tone)
