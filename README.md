@@ -30,6 +30,10 @@ __As for now they are *not* grounded, as i usually dont ground my rails__, so it
   - 071220 :
     - rajout au batch de décembre, en attente de livraison : 
         - [tomarus - miarph](https://github.com/tomarus/midi2cv) | unknown license | 8hp
+        
+  - 120221
+    - livraison du batch du 270121, vérif et premier up
+      - [nickjaeglin - analog-logic](https://github.com/nickajeglin/Eurorack-pcbs#analog-logic) | ohw | 8hp
 
 - ### [license](https://github.com/pierstu/eurorack-panels/blob/master/license) 
   [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) according to the original works, please feel free to drop me a line or open an issue if you want anything removed
